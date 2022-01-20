@@ -1,0 +1,46 @@
+nav.navbar{
+    background-color: #fff;
+    /* background-color:rgba(255, 255, 255, 0.7); */
+}
+section#about,
+section#gallery,
+section#contact,
+section#data-siswa,
+section#data-guru,
+section#profil{
+    background-color:rgb(228, 244, 252);
+}
+section#about > h3,
+section#gallery > h3,
+section#contact > h3,
+.footer
+{
+    color:rgb(82, 82, 82);
+    background-color:rgb(154, 218, 250);
+}
+
+.card .card-header{
+    background-color: rgb(186, 225, 245);
+}
+
+.fa{
+    opacity: 0.5;
+}
+
+.fa:hover{
+   
+    opacity: 1;
+}
+
+h3.heading, h4.heading, h5.heading{
+    color:rgb(15, 118, 170);
+}
+
+body.form-daftar{
+    background-image: linear-gradient(#CDDEFF, #EEF2FF);
+}
+
+.col-md-3{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
